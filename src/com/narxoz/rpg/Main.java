@@ -1,14 +1,25 @@
 package com.narxoz.rpg;
+import com.narxoz.rpg.combatant.Hero;
+import com.narxoz.rpg.floor.*;
+import java.util.*;
 
-/**
- * Entry point for Homework 8 — The Haunted Tower: Ascending the Floors.
- *
- * Build your heroes, floors, tower runner, and execute the climb here.
- */
 public class Main {
-
     public static void main(String[] args) {
-        //bgvvg gv
-        int A = 5;
+        Hero hero = new Hero("Рыцарь", 100);
+        List<TowerFloor> tower = Arrays.asList(
+                new CombatFloor(),
+                new TrapFloor(),
+                new RestFloor(),
+                new CombatFloor()
+        );
+
+        int cleared = 0;
+        for (TowerFloor floor : tower) {
+            FloorResult res = floor.runFloor(hero);
+            if (!res.isSuccess()) break;
+            cleared++;
+        }
+
+        System.out.println("\n Итог: Пройдено этажей: " + cleared );
     }
 }
