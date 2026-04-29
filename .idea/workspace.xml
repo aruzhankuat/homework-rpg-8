@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e7270ac6-5d47-43db-8014-1ff11cd82425" name="Changes" comment="2">
+      <change afterPath="$PROJECT_DIR$/src/com/narxoz/rpg/floor/CombatFloor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/narxoz/rpg/floor/RestFloor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/narxoz/rpg/floor/TrapFloor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/narxoz/rpg/state/NormalState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/narxoz/rpg/state/PoisonedState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/narxoz/rpg/state/RageState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/narxoz/rpg/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/narxoz/rpg/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/narxoz/rpg/combatant/Hero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/narxoz/rpg/combatant/Hero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/narxoz/rpg/combatant/Monster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/narxoz/rpg/combatant/Monster.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/narxoz/rpg/floor/FloorResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/narxoz/rpg/floor/FloorResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/narxoz/rpg/floor/TowerFloor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/narxoz/rpg/floor/TowerFloor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/narxoz/rpg/state/HeroState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/narxoz/rpg/state/HeroState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/narxoz/rpg/tower/TowerRunResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/narxoz/rpg/tower/TowerRunResult.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;aruzhankuat&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/aruzhankuat/homework-rpg-8.git&quot;,
+    &quot;accountId&quot;: &quot;3862cc60-3ff6-4b0b-a6ef-a93873621f4f&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="3Czw3tdwNSAFuY7cSTliZclMOEI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Пользователь/IdeaProjects/homework-rpg-8",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.narxoz.rpg.Main" />
+      <module name="homework-rpg-8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.narxoz.rpg.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e7270ac6-5d47-43db-8014-1ff11cd82425" name="Changes" comment="" />
+      <created>1777401511298</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1777401511298</updated>
+    </task>
+    <task id="LOCAL-00001" summary="8">
+      <option name="closed" value="true" />
+      <created>1777403029601</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1777403029601</updated>
+    </task>
+    <task id="LOCAL-00002" summary="8">
+      <option name="closed" value="true" />
+      <created>1777403095844</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1777403095844</updated>
+    </task>
+    <task id="LOCAL-00003" summary="8">
+      <option name="closed" value="true" />
+      <created>1777403134331</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1777403134331</updated>
+    </task>
+    <task id="LOCAL-00004" summary="8">
+      <option name="closed" value="true" />
+      <created>1777403194219</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1777403194219</updated>
+    </task>
+    <task id="LOCAL-00005" summary="8">
+      <option name="closed" value="true" />
+      <created>1777403250507</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1777403250507</updated>
+    </task>
+    <task id="LOCAL-00006" summary="8">
+      <option name="closed" value="true" />
+      <created>1777403358052</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1777403358052</updated>
+    </task>
+    <task id="LOCAL-00007" summary="8">
+      <option name="closed" value="true" />
+      <created>1777403378609</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1777403378609</updated>
+    </task>
+    <task id="LOCAL-00008" summary="8">
+      <option name="closed" value="true" />
+      <created>1777403621490</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1777403621490</updated>
+    </task>
+    <task id="LOCAL-00009" summary="8">
+      <option name="closed" value="true" />
+      <created>1777403713560</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1777403713560</updated>
+    </task>
+    <task id="LOCAL-00010" summary="8">
+      <option name="closed" value="true" />
+      <created>1777404192100</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1777404192100</updated>
+    </task>
+    <task id="LOCAL-00011" summary="8">
+      <option name="closed" value="true" />
+      <created>1777404535389</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1777404535389</updated>
+    </task>
+    <task id="LOCAL-00012" summary="8">
+      <option name="closed" value="true" />
+      <created>1777404650869</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1777404650869</updated>
+    </task>
+    <task id="LOCAL-00013" summary="8">
+      <option name="closed" value="true" />
+      <created>1777404660944</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1777404660944</updated>
+    </task>
+    <task id="LOCAL-00014" summary="8">
+      <option name="closed" value="true" />
+      <created>1777438327308</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1777438327308</updated>
+    </task>
+    <task id="LOCAL-00015" summary="8">
+      <option name="closed" value="true" />
+      <created>1777438500357</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1777438500357</updated>
+    </task>
+    <task id="LOCAL-00016" summary="2">
+      <option name="closed" value="true" />
+      <created>1777439695613</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1777439695613</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="8" />
+    <MESSAGE value="2" />
+    <option name="LAST_COMMIT_MESSAGE" value="2" />
+  </component>
+</project>
